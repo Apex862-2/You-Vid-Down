@@ -63,6 +63,8 @@ how to install
 
     pip install pytube
 
+Here is a small preview of its interface
+
 
 ![image](https://github.com/Apex862-2/You-Vid-Down/assets/140745064/6034aa09-ffd1-433d-8e5e-d8bdeb3eb5e3)
 
